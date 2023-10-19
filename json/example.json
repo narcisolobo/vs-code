@@ -1,0 +1,8 @@
+// JSON
+// JavaScript Object Notation
+// Every element is a key-value pair
+
+{
+  "name": "Narciso",
+  "occupation": "Instructor"
+}
